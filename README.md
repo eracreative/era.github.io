@@ -1,2 +1,1 @@
-# era.github.io
-Eracreative tech hub
+# eracreativ.github.io
